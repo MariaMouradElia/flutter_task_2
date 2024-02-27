@@ -15,7 +15,7 @@ class CreateTask extends StatelessWidget {
 
     return Scaffold(
       floatingActionButton: FloatingActionButton(
-        backgroundColor: Color(0xff004a77),
+        backgroundColor: Color(0xff004a75),
         child: Icon(Icons.check,
         color: Color(0xffffffff),),
         onPressed: (){},
